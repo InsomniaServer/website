@@ -1,4 +1,4 @@
 baseURL = "http://insomniaserver.github.io"
 languageCode = "fr"
 title = "Insomnia - Entropy Collapse"
-theme = "ananke"
+theme = ""
