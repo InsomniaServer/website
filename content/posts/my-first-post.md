@@ -26,3 +26,17 @@ Test des morceaux de code
 def main():
     pass
 ```
+
+```lua
+function newPoint2d(x , y)
+    if x == nil || y == nil then
+        return {"x"=0, "y"=0}
+    else
+        return {"x"=x, "y"=y}
+    end
+end
+```
+
+Test des images
+
+![Logo de Wikipedia France](https://fr.wikipedia.org/static/images/project-logos/frwiki.png)
