@@ -19,3 +19,10 @@ Test des tableaux
 | Col2    | est          | certrée                                |
 | Col3    | est          | alignée à droite                       |
 | *Voilà* | **du texte** | `formaté avec` ***différents styles*** |
+
+Test des morceaux de code
+
+```python
+def main():
+    pass
+```
